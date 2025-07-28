@@ -1,6 +1,3 @@
-Always try to use latest packages and tools.
-Keep an eye on code quality and readability.
-
 # Local setup quirks
 ## Delta
 I use Delta to render `git diff`.
