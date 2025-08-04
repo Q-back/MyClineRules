@@ -1,16 +1,18 @@
 # Auto commit
 Follow all the tasks user asked for.
 
-Don't do many unrelated changes at once, instead split your work to smaller iterations,
-use `git commit` to for each iteration to maintain
+Don't do many unrelated changes at once, instead use
+use `git commit` for each feature/bug to maintain a
 clean history and to easily track what's happening in the project.
 
+## Commit message
 Each commit created by you should start with `AI: ` followed by short commit title
 starting with capital letter and without dot (`.`) at the end.
 The commit title should be written in imperative.
 Then you should add empty line and task description.
 Try to not exceed 80 or 100 characters per line in commit message.
-Example:
+
+### Example:
 """
 AI: Refactor timer to be datetime-based not interval-based
 
@@ -20,16 +22,12 @@ It was prone to errors when user e.g. reloaded tab.
 `datetime-based` approach has no such issues.
 """
 
+## Use MCP for git
 Prefer to interact with `git` using MCP servers.
 When you commit changes using terminal - remember to check terminal output to make sure
 that no git hook failed
 
-# Auto commit explicit!
-As stated in `Auto Commit` header please perform commit per feature/bugfix.
-When you plan your work try to split it into small commitable parts.
-
-
-# Strcit typing
+# Strict typing
 Don't leave untyped code.
 Ensure type checkers won't have any issues with your code.
 
