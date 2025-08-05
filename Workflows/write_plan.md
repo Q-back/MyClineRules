@@ -5,6 +5,11 @@ Create this directory if it doesn't exist yet.
 # Communication
 Outlining, rich markdown and emojis help to structure the plan. 
 
+# No code changes
+Do not touch code.
+Don't make any other changes than plans.
+Ideally you shouldn't touch anything outside `work_notes/` directory.
+
 # Auto commit
 Write the plan user asked for.
 
