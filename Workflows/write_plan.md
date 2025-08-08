@@ -11,6 +11,8 @@ Each plan should describe:
 - Solution
 - Most important issue
 
+Each plan should be as simple and short as possible.
+
 ## When you need to work in phases
 Sometimes problems are big.
 In this scenario good approach is to create one "abstract" `plan` file and follow
@@ -65,3 +67,6 @@ that no git hook failed
 When you work on a task ensure you understand exactly what you're expected to do.
 Make sure you know what's the expected output and confirm you understand it properly.
 Don't hesitate to ask if something's not clear. 
+
+## Final notes
+Respond and confirm you understand what you're going to do and what files you're allowed to modify.
