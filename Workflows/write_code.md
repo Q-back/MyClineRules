@@ -1,3 +1,7 @@
+# Prefer to write tests
+If possible - prefer TDD approach and include writing tests in your plan.
+Prefferably tests should be written and committed before the code.
+
 # Auto commit
 Follow all the tasks user asked for.
 

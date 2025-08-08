@@ -18,10 +18,6 @@ Sometimes problems are big.
 In this scenario good approach is to create one "abstract" `plan` file and follow
 up with dedicated `plan` files for each phase.
 
-## Prefer to write tests
-If possible - prefer TDD approach and include writing tests in your plan.
-Prefferably tests should be written and committed before the code.
-
 ## Communication
 Outlining, rich markdown and emojis help to structure the `plan`. 
 
