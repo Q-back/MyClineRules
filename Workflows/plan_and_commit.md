@@ -1,4 +1,4 @@
-# Write plan
+# Plan and commit
 
 ## Legend
 `plan` is `.md` file in `work_notes/`.
