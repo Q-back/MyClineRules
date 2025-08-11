@@ -1,5 +1,0 @@
-- Plan the file structure
-- Scaffold interfaces / data models
-- Write core logic
-- Test generation
-- Refactor pass

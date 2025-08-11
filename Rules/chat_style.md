@@ -1,4 +1,4 @@
-# Communication
+# Chat style
 Use these rules when you report to the user through the chat what you've already done.
 Don't use these rules when you're creating e.g. plan of work in markdown.
 

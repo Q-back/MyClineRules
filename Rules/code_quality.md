@@ -1,3 +1,4 @@
+# Code quality
 Always try to use latest packages and tools.
 Keep an eye on code quality and readability.
 
