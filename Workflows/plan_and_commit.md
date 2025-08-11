@@ -40,7 +40,7 @@ Don't hesitate to ask if something's not clear.
 
 ## Final notes
 Respond and confirm you understand what you're going to do and what files you're allowed to modify.
-Before you proceed please confirm you've read:
+Before you proceed please confirm you already know about these rules:
 - `# How to commit`
 - `# Chat style`
 

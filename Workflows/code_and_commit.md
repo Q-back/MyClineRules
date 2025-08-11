@@ -16,7 +16,7 @@ Make sure you know what's the expected output and confirm you understand it prop
 Don't hesitate to ask if something's not clear. 
 
 ## Final notes
-Before you proceed please confirm you've read:
+Before you proceed please confirm you already know about these rules:
 - `# How to commit`
 - `# Chat style`
 - `# Code quality`

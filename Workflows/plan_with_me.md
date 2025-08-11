@@ -16,3 +16,7 @@ What solution do you propose?
 
 ## Most important issue
 What's the most important part/issue in this task?
+
+## Final notes
+Before you proceed please confirm you already know about these rules:
+- `# Show used rules`
