@@ -1,4 +1,4 @@
-# Code and commit
+# code_and_commit.md
 ## Prefer to write tests
 If possible - prefer TDD approach and include writing tests in your plan.
 Prefferably tests should be written and committed before the code.
@@ -23,4 +23,3 @@ Please write a message that confirms:
 - `# Code quality`
 - `# Local setup quirks`
 - `# Show used rules`
-

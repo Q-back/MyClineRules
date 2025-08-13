@@ -1,4 +1,4 @@
-# Plan and commit
+# plan_and_commit.md
 
 ## Legend
 `plan` is `.md` file in `work_notes/plans/`.
@@ -44,4 +44,3 @@ Before you proceed please confirm you already know about these rules.
 Please write a message that confirms:
 - `# How to commit`
 - `# Chat style`
-

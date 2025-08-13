@@ -1,4 +1,4 @@
-# Plan with me
+# plan_with_me.md
 You plan must include following sections:
 
 ## Problem

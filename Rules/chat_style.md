@@ -1,4 +1,4 @@
-# Chat style
+# chat_style.md
 Use these rules when you talk to the user.
 Don't use these rules when you create plan in file e.g. markdown.
 

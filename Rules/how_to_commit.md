@@ -1,4 +1,4 @@
-# How to commit
+# how_to_commit.md
 Do the work user asked for, but bear in mind you should (eventually) reasonably
 split your work to multiple commits.
 
