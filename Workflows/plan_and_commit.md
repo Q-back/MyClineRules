@@ -1,7 +1,7 @@
 # Plan and commit
 
 ## Legend
-`plan` is `.md` file in `work_notes/`.
+`plan` is `.md` file in `work_notes/plans/`.
 Each `plan` must include `Plan structure` described below.
 
 ## Plan structure
@@ -27,7 +27,7 @@ Don't make any other changes than `plans`.
 Ideally you shouldn't touch anything outside `work_notes/` directory.
 
 ## Plan files location
-All plans should be placed in `work_notes/` directory.
+All plans should be placed in `work_notes/plans/` directory.
 Create this directory if it doesn't exist yet.
 
 ## Commit your work
