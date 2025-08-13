@@ -1,9 +1,5 @@
 # Plan with me
-When you're done planning ensure you include these sections:
-
-## Write TL;DR
-Try to summarize the task in the way that requires the least amount of cognitive load
-to understand as possible.
+You plan must include following sections:
 
 ## Problem
 What's the problem we're working on?
