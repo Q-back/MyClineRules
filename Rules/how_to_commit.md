@@ -1,5 +1,5 @@
 # How to commit
-Do the work used asked for, but bear in mind you should (eventually) reasonably
+Do the work user asked for, but bear in mind you should (eventually) reasonably
 split your work to multiple commits.
 
 Don't do many unrelated changes at once, instead use
