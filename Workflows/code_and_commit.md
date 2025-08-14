@@ -18,8 +18,8 @@ Don't hesitate to ask if something's not clear.
 ## Final notes
 Before you proceed please confirm you already know about these rules.
 Please write a message that confirms:
-- `# How to commit`
-- `# Chat style`
-- `# Code quality`
-- `# Local setup quirks`
-- `# Show used rules`
+- `#how_to_commit.md`
+- `#chat_style.md`
+- `#code_quality.md`
+- `#local_setup.md`
+- `#show_used_rules.md`

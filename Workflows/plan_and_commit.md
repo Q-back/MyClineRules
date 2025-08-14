@@ -31,7 +31,7 @@ All plans should be placed in `work_notes/plans/` directory.
 Create this directory if it doesn't exist yet.
 
 ## Commit your work
-Read `# How to commit` and follow these instructions
+Read `#how_to_commit.md` and follow these instructions
 
 ## Ensure you understand
 When you work on a task ensure you understand exactly what you're expected to do.
@@ -42,5 +42,5 @@ Don't hesitate to ask if something's not clear.
 Respond and confirm you understand what you're going to do and what files you're allowed to modify.
 Before you proceed please confirm you already know about these rules.
 Please write a message that confirms:
-- `# How to commit`
-- `# Chat style`
+- `#how_to_commit.md`
+- `#chat_style.md`

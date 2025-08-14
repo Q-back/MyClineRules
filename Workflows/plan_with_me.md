@@ -16,4 +16,4 @@ What's the most important part/issue in this task?
 ## Final notes
 Before you proceed please confirm you already know about these rules.
 Please write a message that confirms:
-- `# Show used rules`
+- `#show_used_rules.md`
