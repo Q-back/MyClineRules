@@ -1,5 +1,5 @@
 # plan_with_me.md
-You plan must include following sections:
+Your plan must include following sections:
 
 ## Problem
 What's the problem we're working on?
