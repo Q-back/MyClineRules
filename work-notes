@@ -6,6 +6,10 @@ case "$1" in
         cat > "./work_notes/prompt.md" << 'EOF'
 # Definition of done
 Describe when task is considered done
+
+# Test and play
+Describe the ways to interact with the code to prove that solution works.
+Eg. by running test or seeing how UI renders.
 EOF
         echo "✅ Created work_notes with context folder and prompt.md."
         code work_notes/prompt.md
