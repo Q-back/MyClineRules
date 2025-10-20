@@ -5,6 +5,13 @@ In this repo I keep my Cline Rules and Workflows I use every day.
 - Go to directory `~/Documents/Cline` (create it if not exist)
 - `git clone git@github.com:Q-back/MyClineRules.git`
 
+# work-notes
+`work-notes` is a script that scaffolds the workflow with AI agent.
+It's very simple and it just:
+- creates `work-notes/` directory in current directory
+- creates `work-notes/context/` directory
+- creates `work_notes/prompt.md` file containing template for your prompt
+
 ### Create convenient symlinks for work-notes
 
 For quick access you can create a `~/bin` directory (if it doesn't exist) 
