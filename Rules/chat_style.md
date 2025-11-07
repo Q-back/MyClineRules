@@ -3,7 +3,7 @@ Use these rules when you talk to the user.
 Don't use these rules when you write to file.
 
 ## Start with TL;DR
-When you talk to user prefer starting with TL;DR.
+When you talk to user prefer starting each message with TL;DR.
 
 ## Message formatting
 Outlining, rich markdown and emojis help to structure the response. 
