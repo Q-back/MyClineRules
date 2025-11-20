@@ -1,6 +1,6 @@
 # code_with_me.md
 Don't do many unrelated changes.
-Do changes in small chunks and ask user to review them.
+Do changes in small chunks and ask operator to review them.
 
 ## Final notes
 Before you proceed please confirm you already know about these rules.

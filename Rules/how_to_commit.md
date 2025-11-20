@@ -1,5 +1,5 @@
 # how_to_commit.md
-Do the work user asked for, but bear in mind you should (eventually) reasonably
+Do the work operator asked for, but bear in mind you should (eventually) reasonably
 split your work to multiple commits.
 
 Don't do many unrelated changes at once, instead use
@@ -19,7 +19,7 @@ AI: Refactor timer to be datetime-based not interval-based
 
 Previously timer component utilized `setInterval` to increment
 the amount of seconds already spent on task every 1 second.
-It was prone to errors when user e.g. reloaded tab.
+It was prone to errors when operator e.g. reloaded tab.
 `datetime-based` approach has no such issues.
 """
 

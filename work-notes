@@ -8,6 +8,7 @@ case "$1" in
 Describe when task is considered done
 
 # Test and play
+(This paragraph is for operator, not for agent)
 Describe the ways to interact with the code to prove that solution works.
 Eg. by running test or seeing how UI renders.
 EOF

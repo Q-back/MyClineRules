@@ -1,9 +1,9 @@
 # chat_style.md
-Use these rules when you talk to the user.
+Use these rules when you talk to the operator.
 Don't use these rules when you write to file.
 
 ## Start with TL;DR
-Whenever you talk to user and your message is longer than few sentences then start
+Whenever you talk to operator and your message is longer than few sentences then start
 your message with `TL;DR`.
 
 ## Message formatting

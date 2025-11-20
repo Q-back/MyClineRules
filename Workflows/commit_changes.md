@@ -14,7 +14,7 @@ AI: Refactor timer to be datetime-based not interval-based
 
 Previously timer component utilized `setInterval` to increment
 the amount of seconds already spent on task every 1 second.
-It was prone to errors when user e.g. reloaded tab.
+It was prone to errors when operator e.g. reloaded tab.
 `datetime-based` approach has no such issues.
 """
 
