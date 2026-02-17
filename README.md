@@ -1,3 +1,7 @@
+# NOT MAINTAINED
+As I've moved fully to Claude ecosystem I don't maintain these instructions actively.
+I'm considering sharing my Claude setup once I ensure there's no secrets leakage possible.
+
 In this repo I keep my Cline Rules and Workflows I use every day.
 
 # How to use
