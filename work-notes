@@ -13,7 +13,7 @@ Describe the ways to interact with the code to prove that solution works.
 Eg. by running test or seeing how UI renders.
 EOF
         echo "✅ Created work_notes with context folder and prompt.md."
-        code work_notes/prompt.md
+        code work_notes/1_prompt.md
         ;;
     remove|r)
         rm -rf "./work_notes"
