@@ -19,7 +19,11 @@ EOF
         rm -rf "./work_notes"
         echo "🗑 Removed work_notes folder."
         ;;
+    remove-context|rc)
+        rm -rf "./work_notes/context"
+        echo "🗑 Removed work_notes/context/ folder."
+        ;;
     *)
-        echo "Usage: work-notes {create|c|remove|r}"
+        echo "Usage: work-notes {create|c|remove|r|remove-context|rc}"
         ;;
 esac

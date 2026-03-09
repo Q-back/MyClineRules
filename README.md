@@ -11,10 +11,14 @@ In this repo I keep my Cline Rules and Workflows I use every day.
 
 # work-notes
 `work-notes` is a script that scaffolds the workflow with AI agent.
-It's very simple and it just:
-- creates `work-notes/` directory in current directory
-- creates `work-notes/context/` directory
-- creates `work_notes/prompt.md` file containing template for your prompt
+
+## Commands
+- `wn create` or `wn c` - Creates the work_notes structure:
+  - `work-notes/` directory in current directory
+  - `work-notes/context/` directory
+  - `work_notes/1_prompt.md` file containing template for your prompt
+- `wn remove` or `wn r` - Removes the entire work_notes folder
+- `wn remove-context` or `wn rc` - Removes only the work_notes/context/ folder
 
 ### Create convenient symlinks for work-notes
 
