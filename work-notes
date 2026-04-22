@@ -1,9 +1,9 @@
 #!/bin/bash
 
 case "$1" in
-    create|c)
-        mkdir -p "./work_notes/context"
-        cat > "./work_notes/1_prompt.md" << 'EOF'
+create | c)
+  mkdir -p "./work_notes/context"
+  cat >"./work_notes/1_prompt.md" <<'EOF'
 # Definition of done
 Describe when task is considered done
 
@@ -12,18 +12,18 @@ Describe when task is considered done
 Describe the ways to interact with the code to prove that solution works.
 Eg. by running test or seeing how UI renders.
 EOF
-        echo "✅ Created work_notes with context folder and prompt.md."
-        code work_notes/1_prompt.md
-        ;;
-    remove|r)
-        rm -rf "./work_notes"
-        echo "🗑 Removed work_notes folder."
-        ;;
-    remove-context|rc)
-        rm -rf "./work_notes/context"
-        echo "🗑 Removed work_notes/context/ folder."
-        ;;
-    *)
-        echo "Usage: work-notes {create|c|remove|r|remove-context|rc}"
-        ;;
+  echo "✅ Created work_notes with context folder and prompt.md."
+  code work_notes/1_prompt.md
+  ;;
+remove | r)
+  rm -rf "./work_notes"
+  echo "🗑 Removed work_notes folder."
+  ;;
+remove-context | rc)
+  rm -rf "./work_notes/context"
+  echo "🗑 Removed work_notes/context/ folder."
+  ;;
+*)
+  echo "Usage: work-notes {create|c|remove|r|remove-context|rc}"
+  ;;
 esac
